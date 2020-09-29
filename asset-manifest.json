@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/starwars/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/starwars/static/js/main.8df38ef1.chunk.js",
-    "main.js.map": "/starwars/static/js/main.8df38ef1.chunk.js.map",
+    "main.css": "/starwars/static/css/main.3b99f0d7.chunk.css",
+    "main.js": "/starwars/static/js/main.ac109139.chunk.js",
+    "main.js.map": "/starwars/static/js/main.ac109139.chunk.js.map",
     "runtime-main.js": "/starwars/static/js/runtime-main.8af6987b.js",
     "runtime-main.js.map": "/starwars/static/js/runtime-main.8af6987b.js.map",
-    "static/js/2.8d9d10a2.chunk.js": "/starwars/static/js/2.8d9d10a2.chunk.js",
-    "static/js/2.8d9d10a2.chunk.js.map": "/starwars/static/js/2.8d9d10a2.chunk.js.map",
+    "static/js/2.998af969.chunk.js": "/starwars/static/js/2.998af969.chunk.js",
+    "static/js/2.998af969.chunk.js.map": "/starwars/static/js/2.998af969.chunk.js.map",
     "index.html": "/starwars/index.html",
-    "precache-manifest.cf8f467617abe161c14b14462ee21c7c.js": "/starwars/precache-manifest.cf8f467617abe161c14b14462ee21c7c.js",
+    "precache-manifest.bb9408f7556348ce3f4f00f10c645914.js": "/starwars/precache-manifest.bb9408f7556348ce3f4f00f10c645914.js",
     "service-worker.js": "/starwars/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/starwars/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.8d9d10a2.chunk.js.LICENSE.txt": "/starwars/static/js/2.8d9d10a2.chunk.js.LICENSE.txt"
+    "static/css/main.3b99f0d7.chunk.css.map": "/starwars/static/css/main.3b99f0d7.chunk.css.map",
+    "static/js/2.998af969.chunk.js.LICENSE.txt": "/starwars/static/js/2.998af969.chunk.js.LICENSE.txt",
+    "static/media/imperialmarch.mp3": "/starwars/static/media/imperialmarch.45a3a39d.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.8af6987b.js",
-    "static/js/2.8d9d10a2.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.8df38ef1.chunk.js"
+    "static/js/2.998af969.chunk.js",
+    "static/css/main.3b99f0d7.chunk.css",
+    "static/js/main.ac109139.chunk.js"
   ]
 }
