@@ -1,18 +1,15 @@
-import React from "react";
+import React, { Component } from "react";
+import Ships from "./Ships";
 import "./App.css";
-import ApolloClient from "apollo-boost";
-import { ApolloProvider } from "react-apollo";
 
-const client = new ApolloClient({
-  uri: "https://graphql.org/swapi-graphql/",
-});
-
-const App = () => (
-  <ApolloProvider client={client}>
-    <div>
-      <h1>HELLO AAWORLD</h1>
-    </div>
-  </ApolloProvider>
-);
+class App extends Component {
+  render() {
+    return (
+      <div>
+        <Ships />
+      </div>
+    );
+  }
+}
 
 export default App;

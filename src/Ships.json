@@ -1,0 +1,224 @@
+{
+  "data": {
+    "allStarships": {
+      "edges": [
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjI=",
+            "name": "CR90 corvette"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjM=",
+            "name": "Star Destroyer"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjU=",
+            "name": "Sentinel-class landing craft"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjk=",
+            "name": "Death Star"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjEw",
+            "name": "Millennium Falcon"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjEx",
+            "name": "Y-wing"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjEy",
+            "name": "X-wing"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjEz",
+            "name": "TIE Advanced x1"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjE1",
+            "name": "Executor"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjE3",
+            "name": "Rebel transport"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjIx",
+            "name": "Slave 1"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjIy",
+            "name": "Imperial shuttle"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjIz",
+            "name": "EF76 Nebulon-B escort frigate"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjI3",
+            "name": "Calamari Cruiser"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjI4",
+            "name": "A-wing"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjI5",
+            "name": "B-wing"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjMx",
+            "name": "Republic Cruiser"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjMy",
+            "name": "Droid control ship"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjM5",
+            "name": "Naboo fighter"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjQw",
+            "name": "Naboo Royal Starship"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjQx",
+            "name": "Scimitar"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjQz",
+            "name": "J-type diplomatic barge"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjQ3",
+            "name": "AA-9 Coruscant freighter"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjQ4",
+            "name": "Jedi starfighter"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjQ5",
+            "name": "H-type Nubian yacht"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjUy",
+            "name": "Republic Assault ship"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjU4",
+            "name": "Solar Sailer"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjU5",
+            "name": "Trade Federation cruiser"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjYx",
+            "name": "Theta-class T-2c shuttle"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjYz",
+            "name": "Republic attack cruiser"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjY0",
+            "name": "Naboo star skiff"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjY1",
+            "name": "Jedi Interceptor"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjY2",
+            "name": "arc-170"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjY4",
+            "name": "Banking clan frigte"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjc0",
+            "name": "Belbullab-22 starfighter"
+          }
+        },
+        {
+          "node": {
+            "id": "c3RhcnNoaXBzOjc1",
+            "name": "V-wing"
+          }
+        }
+      ]
+    }
+  }
+}
